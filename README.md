@@ -1,1 +1,1 @@
-# ROSE
+This repository stores some stuff I've created while traversing the skilltree of the [Guild of the ROSE](https://guildoftherose.org/).

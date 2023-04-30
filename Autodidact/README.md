@@ -1,0 +1,1 @@
+For the [Autodidact] branch, I learned the 'basics' of Adobe Illustrator (as well as a tiny bit of other tools like Photoshop and Versaworks to complete a sticker-making pipeline). Many of the images shown here have a pink border because that's what tells the system where to cut.
